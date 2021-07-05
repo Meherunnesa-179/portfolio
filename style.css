@@ -1,0 +1,36 @@
+body{ 
+    margin:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span{ 
+    color: #ff0000;
+}
+.section-style{
+    background-image: url('images/images/background1.jpg');
+    background-repeat:no-repeat;
+    background-size:1500px 500px;
+    opacity:0.9;
+    display: flex;
+
+}
+.sec1-div{
+    width: 50%;
+    text-align: justify;
+    padding: 60px;
+
+}
+.first-img{ 
+    border:3px  solid white;
+    border-radius: 50%;
+    width: 380px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+.link-button1{ 
+    text-decoration: none;
+    background-image: linear-gradient(gold,orange,red);
+    padding: 10px 10px 10px;
+    font-weight: 900;
+    color:black;
+    margin-top:20px;
+}
