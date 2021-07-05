@@ -87,3 +87,12 @@ p{
 .h1{ 
     margin-left:5%;
 }
+.footer-style{ 
+    text-align:center;
+    color: black;
+    margin:5%;
+    font-weight: 700;
+}
+.footer-style a:hover{ 
+    color:crimson
+}
