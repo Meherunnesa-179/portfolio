@@ -16,7 +16,7 @@ span{
 .sec1-div{
     width: 50%;
     text-align: justify;
-    padding: 60px;
+   padding-bottom: 100px;
 
 }
 .first-img{ 
@@ -24,13 +24,33 @@ span{
     border-radius: 50%;
     width: 380px;
     height: 400px;
-    margin-bottom: 10px;
 }
 .link-button1{ 
     text-decoration: none;
     background-image: linear-gradient(gold,orange,red);
-    padding: 10px 10px 10px;
+    padding: 10px 40px;
     font-weight: 900;
     color:black;
     margin-top:20px;
+    border-top: 50px;
+    border-radius: 10px;
+}
+.style2{ 
+    background-image: url('images/images/images\ \(5\)1.jpg');
+    background-repeat:no-repeat;
+    background-size:1500px 400px;
+    display: flex;
+
+}
+p{ 
+    padding-bottom: 40px;
+}
+.link-button2{ 
+    text-decoration: none;
+    background-image: linear-gradient(gold,orange,red);
+    padding: 10px 40px;
+    font-weight: 900;
+    color:black;
+    border-top: 50px;
+    border-radius: 10px;
 }
